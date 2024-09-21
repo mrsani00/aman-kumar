@@ -6,6 +6,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - 
 
-💙 
+💙Watch live preview at https://mrsani00.github.io/aman-kumar/ 
 
 
