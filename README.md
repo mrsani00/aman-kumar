@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Calvin
+# Responsive Portfolio Website Aman
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
@@ -8,5 +8,4 @@
 
 💙 
 
-![preview img](/preview.png)
 
